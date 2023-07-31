@@ -55,12 +55,12 @@ echo "$folder/*" >> .git/info/sparse-checkout
 # 원격 레포지토리에서 데이터를 가져옵니다
 git pull origin $branch
 
-cd ..
+# git을 사용하지 않을 것이기에 지웁니다.
+rm -rf .git
 
-# 내부 폴더의 모든 내용을 상위 폴더로 이동
-mv $repo/* .
-rm -rf $repo/.git
+# 맨 위로 올려주고
+mv $folder ~/Repos
+cd ~/Repos
 
-# 이제 빈 폴더가 되었으므로 내부 폴더를 삭제합니다
-rmdir $repo
-
+# 지우는 디렉토리를 보여줍니다.
+rm -rvf $repo
