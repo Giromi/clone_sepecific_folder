@@ -24,6 +24,7 @@ export PATH=$HOME/Bashes:$PATH
 
 ### 실행하기
 
+
 (Optional 건너뛰신 분들)
 ```shell
 cd ./(bash 파일 위치)
