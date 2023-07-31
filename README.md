@@ -34,6 +34,8 @@ chmod +x clone_specific_folder_by_minsuki2.bash
 ./clone_specific_folder_by_minsuki2.bash (github 주소) (원하는 브랜치) (원하는 폴더 경로)
 ```
 
+
+(Optional 하신 분들)
 ```shell
 chmod +x  ~/Bashes/clone_specific_folder_by_minsuki2.bash
 clone_specific_folder_by_minsuki2.bash (github 주소) (원하는 브랜치) (원하는 폴더 경로)
