@@ -8,7 +8,7 @@ https://github.com/Giromi/clone_sepecific_folder/assets/60354633/0bbdc463-7561-4
 <br>
 
 ### 다른 브랜치 다중 폴더 시연 영상
-![debug branch](https://github.com/Giromi/clone_sepecific_folder/assets/60354633/b4f52aa0-e922-451c-9061-ebf330226f12)
+![multi_folder](https://github.com/Giromi/clone_sepecific_folder/assets/60354633/d7ed3e08-f46b-4363-a8ce-1e3067bc2550)
 
 <br>
 
