@@ -7,7 +7,7 @@
 # Usage
 
 
-## Optinal 
+## Optional (안해도 됨)
 
 ### bash 모음 디렉토리 만들기
 ```shell
@@ -21,6 +21,8 @@ export PATH=$HOME/Bashes:$PATH
 ```
 
 (`~/.bashrc` 파일 내부에다가 넣으면 매번 칠 필요없음)
+
+## Essential
 
 ### 실행하기
 
